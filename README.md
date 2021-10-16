@@ -55,7 +55,8 @@ SpaCy is an open-source python library for NLP written in Python and Cython. It 
 </tbody>
 </table>
 
-
+---
+---
 
 ## **Task at Hand**
 
@@ -90,6 +91,8 @@ For this I have extracted annotated clinical text from the following github repo
 - https://aihub.cloud.google.com/p/products%2F2290fc65-0041-4c87-a898-0289f59aa8ba
 - https://youtu.be/DxLcMI-EMYI
 
+---
+---
 
 ## Model Evaluation Scores
 <img align='center' src="https://user-images.githubusercontent.com/66016994/137597878-6980e07d-c1f1-4972-a34d-06f567459d8b.png">
